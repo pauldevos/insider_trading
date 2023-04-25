@@ -1,429 +1,216 @@
 file_date,trade_date,form,ticker,security_title,insider,code,file_10b5_1,shares,share_price,dollar_value,remaining_shares
-2023-04-24,2023-04-20,4,SDIG,"Class A common stock, par value $0.0001","Gregory A Beard
-Chief Executive Officer, Director, 10% Owner",P - Purchase,,"1,000,000",1.00,"1,000,000.00","3,986,507"
-2023-04-24,2023-04-24,4,ISRG,Common Stock,"Rosa David J.
-EVP Chief Strategy & Growth Of",S - Sale,,"-40,764",299.20,"-12,196,446.13","155,712"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Rosa David J.
-EVP Chief Strategy & Growth Of",S - Sale,,"-40,800",297.92,"-12,155,172.72","142,476"
-2023-04-24,2023-04-24,4,NTRA,Common Stock,"Steven Leonard Chapman
-CEO AND PRESIDENT, Director",S - Sale,,-885,54.98,"-48,657.30","212,405"
-2023-04-24,2023-04-21,4,NTRA,Common Stock,"Steven Leonard Chapman
-CEO AND PRESIDENT, Director",S - Sale,,"-1,689",54.27,"-91,662.03","211,516"
-2023-04-24,2023-04-24,4,NTRA,Common Stock,"Michael Burkes Brophy
-CHIEF FINANCIAL OFFICER",S - Sale,,-949,54.98,"-52,176.02","67,197"
-2023-04-24,2023-04-21,4,NTRA,Common Stock,"Michael Burkes Brophy
-CHIEF FINANCIAL OFFICER",S - Sale,,-603,54.27,"-32,724.81","65,751"
-2023-04-24,2023-04-24,4,NTRA,Common Stock,"Daniel Rabinowitz
-SEC. AND CHIEF LEGAL OFFICER",S - Sale,,-342,54.98,"-18,803.16","177,143"
-2023-04-24,2023-04-21,4,NTRA,Common Stock,"Daniel Rabinowitz
-SEC. AND CHIEF LEGAL OFFICER",S - Sale,,-454,54.27,"-24,638.58","176,841"
-2023-04-24,2023-04-24,4,NTRA,Common Stock,"Jonathan Sheena
-Director",S - Sale,,-43,54.98,"-2,364.14","524,746"
-2023-04-24,2023-04-21,4,NTRA,Common Stock,"Jonathan Sheena
-Director",S - Sale,,-233,54.22,"-12,633.80","524,646"
-2023-04-24,2023-04-21,4,NTRA,Common Stock,"Jonathan Sheena
-Director",S - Sale,,-57,54.27,"-3,093.39","524,879"
-2023-04-24,2023-04-20,4,SGH,Ordinary Shares,"Thierry Pellegrino
-SVP, Pres, IPS",S - Sale,,"-2,764",15.98,"-44,165.13","74,951"
-2023-04-24,2023-04-21,4,VIR,Common Stock,"Endurance (Cayman) Ltd SVF
-10% Owner",S - Sale,,"-15,908",26.01,"-413,752.76","17,904,799"
-2023-04-24,2023-04-21,4,VIR,Common Stock,"Endurance (Cayman) Ltd SVF
-10% Owner",S - Sale,,"-289,485",25.76,"-7,458,494.18","17,920,707"
-2023-04-24,2023-04-20,4,VIR,Common Stock,"Endurance (Cayman) Ltd SVF
-10% Owner",S - Sale,,"-6,590",25.06,"-165,147.38","18,210,192"
-2023-04-24,2023-04-24,4,ATEC,Common Stock,"Craig E Hunsaker
-EVP, PEOPLE/CULTURE & GC",S - Sale,,"-28,311",15.85,"-448,729.35","1,285,694"
-2023-04-24,2023-04-24,4,CRM,Common Stock,"Amy E Weaver
-President and CFO",S - Sale,,-510,196.33,"-100,128.56","36,680"
-2023-04-24,2023-04-24,4,CRM,Common Stock,"Srinivas Tallapragada
-Pres/Chief Engineering Officer",S - Sale,,-1,194.51,-194.51,"55,962"
-2023-04-24,2023-04-24,4,CRM,Common Stock,"Srinivas Tallapragada
-Pres/Chief Engineering Officer",S - Sale,,-560,196.33,"-109,945.08","55,963"
-2023-04-24,2023-04-24,4,CRM,Common Stock,"Reddy Sundeep G.
-EVP & Chief Accounting Officer",S - Sale,,-164,196.33,"-32,198.20","1,884"
-2023-04-24,2023-04-24,4,CRM,Common Stock,"Brian Millham
-President and COO",S - Sale,,-329,196.33,"-64,592.73","13,773"
-2023-04-24,2023-04-24,4,LOAN,Common Stock,"Assaf Ran
-President and CEO, Director, 10% Owner",P - Purchase,,"5,000",5.01,"25,050.00","2,598,000"
-2023-04-24,2023-04-20,4,AXNX,Common Stock,"Dearen Danny L.
-President & CFO",S - Sale,,"-2,001",60.01,"-120,072.61","23,993"
-2023-04-24,2023-04-24,4,CRM,Common Stock,"Brent Hyder
-President/Chief People Officer",S - Sale,,-255,196.33,"-50,064.28","9,227"
-2023-04-24,2023-04-24,4,CRM,Common Stock,"Brent Hyder
-President/Chief People Officer",S - Sale,,-526,196.33,"-103,269.84","9,482"
-2023-04-24,2023-04-24,4,CRM,Common Stock,"Parker Harris
-Co-Founder and CTO, Director",S - Sale,,-1,194.53,-194.53,"100,309"
-2023-04-24,2023-04-24,4,CRM,Common Stock,"Parker Harris
-Co-Founder and CTO, Director",S - Sale,,-560,196.33,"-109,945.08","100,310"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-349,297.94,"-103,981.13","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-349,297.94,"-103,982.56","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-349,297.93,"-103,976.91","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-173,297.89,"-51,535.71","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-463,297.89,"-137,925.06","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-927,297.94,"-276,194.37","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-927,297.93,"-276,179.35","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-927,297.94,"-276,190.57","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-299,297.89,"-89,070.40","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-598,297.94,"-178,170.69","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-598,297.93,"-178,161.00","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-598,297.94,"-178,168.24","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-235,297.89,"-70,005.16","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-472,297.94,"-140,629.71","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-472,297.93,"-140,622.06","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-472,297.94,"-140,627.77","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-230,297.89,"-68,515.69","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-460,297.94,"-137,054.38","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-460,297.93,"-137,046.93","15,000"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Mark J Rubash
-Director",S - Sale,,-460,297.94,"-137,052.49","15,000"
-2023-04-24,2023-04-24,4,TMRC,Common Stock,"Marchese Anthony G.
-Director",P - Purchase,,"6,000",0.96,"5,760.00","4,086,272"
-2023-04-24,2023-04-24,4,VKTX,"Common Stock, par value $0.00001 per share","Lawson Macartney
-Director",S - Sale,,"-16,000",22.00,"-352,060.80","47,965"
-2023-04-24,2023-04-20,4,XPOF,Class A Common Stock,"Anthony Geisler
-Chief Executive Officer, Director, 10% Owner",S - Sale,,"-5,393",33.05,"-178,238.65","438,086"
-2023-04-24,2023-04-24,4,IRMD,Common Stock,"Susi Roger E.
-President, CEO and Chairman, Director, 10% Owner",S - Sale,,"-10,000",41.23,"-412,324.00","512,950"
-2023-04-24,2023-04-20,4,NONE,Limited Liability Company Units,"Marguerite Brogan
-Director",P - Purchase,,0,0.00,0.00,"1,912"
-2023-04-24,2023-04-20,4,NONE,Limited Liability Company Units,"Edward Gellert
-Director",P - Purchase,,0,0.00,0.00,0
-2023-04-24,2023-04-24,4,ENVX,Common Stock,"Betsy S Atkins
-Director",S - Sale,,"-5,000",12.36,"-61,800.00","192,561"
-2023-04-24,2023-04-21,4,DNLI,Common Stock,"Watts Ryan J.
-President and CEO, Director",S - Sale,,"-24,800",25.15,"-623,720.00","2,239,913"
-2023-04-24,2023-04-20,4,DNLI,Common Stock,"Watts Ryan J.
-President and CEO, Director",S - Sale,,-200,25.00,"-5,000.00","2,239,913"
-2023-04-24,2023-04-24,4,AULT,Common Stock,"Milton C Iii Ault
-Executive Chairman, Director, 10% Owner",P - Purchase,,"240,000",0.10,"24,264.00","50,480,000"
-2023-04-24,2023-04-21,4,AULT,Common Stock,"Milton C Iii Ault
-Executive Chairman, Director, 10% Owner",P - Purchase,,"240,000",0.10,"24,960.00","50,240,000"
-2023-04-24,2023-04-20,4,ATEC,Common Stock,"John Todd Koning
-CHIEF FINANCIAL OFFICER",S - Sale,,"-16,500",16.42,"-270,930.00","415,552"
-2023-04-24,2023-04-24,4,CROX,Common Stock,"Andrew Rees
-Chief Executive Officer, Director",S - Sale,,"-10,000",150.05,"-1,500,546.00","89,748"
-2023-04-24,2023-04-24,4,BLZE,Class A Common Stock,"Gleb Budman
-CEO and Chairperson, Director, 10% Owner",S - Sale,,"-2,000",4.27,"-8,540.00","87,128"
-2023-04-24,2023-04-21,4,BLZE,Class A Common Stock,"Gleb Budman
-CEO and Chairperson, Director, 10% Owner",S - Sale,,"-2,000",4.40,"-8,800.00","89,128"
-2023-04-24,2023-04-20,4,BLZE,Class A Common Stock,"Gleb Budman
-CEO and Chairperson, Director, 10% Owner",S - Sale,,"-2,000",4.41,"-8,820.00","91,128"
-2023-04-24,2023-04-24,4,BLZE,Class A Common Stock,"Timothy M Nufire
-Director, 10% Owner",S - Sale,,"-2,000",4.27,"-8,540.00","1,084,000"
-2023-04-24,2023-04-21,4,BLZE,Class A Common Stock,"Timothy M Nufire
-Director, 10% Owner",S - Sale,,"-2,000",4.38,"-8,760.00","1,086,000"
-2023-04-24,2023-04-20,4,BLZE,Class A Common Stock,"Timothy M Nufire
-Director, 10% Owner",S - Sale,,"-2,000",4.41,"-8,820.00","1,088,000"
-2023-04-24,2023-04-21,4,GO,Common Stock,"Thomas F Herman
-Director",S - Sale,,"-2,000",29.00,"-58,000.00","29,400"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Ronald David Miller
-Director, 10% Owner",S - Sale,,-108,0.00,0.00,"3,743,213"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Ronald David Miller
-Director, 10% Owner",S - Sale,,-985,25.00,"-24,625.00","3,743,321"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Lee Miller
-10% Owner",S - Sale,,-108,0.00,0.00,"3,743,213"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Lee Miller
-10% Owner",S - Sale,,-985,25.00,"-24,625.00","3,743,321"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Fredrik Widman
-VP Corporate Controller",S - Sale,,-630,297.87,"-187,658.10","2,233"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Jonathan Reyes
-Chief Compliance Officer",S - Sale,,-3,0.00,0.00,"1,207"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Jonathan Reyes
-Chief Compliance Officer",S - Sale,,-23,25.00,-575.00,"1,210"
-2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Scott Farquhar
-Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,"-3,364",158.57,"-533,430.49","407,130"
-2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Scott Farquhar
-Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,"-2,940",156.82,"-461,055.80","410,494"
-2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Scott Farquhar
-Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,"-1,710",157.87,"-269,958.90","413,434"
-2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Scott Farquhar
-Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,-600,156.03,"-93,619.62","415,144"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Joshua Daniel Amster
-VP, Fundraising",S - Sale,,-12,0.00,0.00,"6,791"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Joshua Daniel Amster
-VP, Fundraising",S - Sale,,-111,25.00,"-2,775.00","6,803"
-2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Michael Cannon-Brookes
-Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,-600,156.03,"-93,619.68","407,130"
-2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Michael Cannon-Brookes
-Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,"-1,711",157.87,"-270,116.25","407,730"
-2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Michael Cannon-Brookes
-Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,"-2,939",156.82,"-460,898.68","409,441"
-2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Michael Cannon-Brookes
-Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,"-3,364",158.57,"-533,430.49","412,380"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Howard Edward Marks
-Chief Executive Officer, Director",S - Sale,,-26,0.00,0.00,"1,001,614"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Howard Edward Marks
-Chief Executive Officer, Director",S - Sale,,-236,25.00,"-5,900.00","1,001,640"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Howard Edward Marks
-Chief Executive Officer, Director",S - Sale,,-242,0.00,0.00,"8,997,260"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Howard Edward Marks
-Chief Executive Officer, Director",S - Sale,,"-2,258",25.00,"-56,450.00","8,997,502"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Aubrey Chernick
-10% Owner",S - Sale,,-240,0.00,0.00,"172,016"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Aubrey Chernick
-10% Owner",S - Sale,,"-2,198",25.00,"-54,950.00","172,256"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Johanna Cronin
-Chief Marketing Officer",S - Sale,,-31,0.00,0.00,"20,213"
-2023-04-24,2023-04-21,4,STGC,Common Stock,"Johanna Cronin
-Chief Marketing Officer",S - Sale,,-287,25.00,"-7,175.00","20,244"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Robert DeSantis
-EVP & Chief Product Officer",S - Sale,,"-1,167",297.90,"-347,644.98","7,065"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Robert DeSantis
-EVP & Chief Product Officer",S - Sale,,"-1,196",297.91,"-356,302.27","8,232"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Robert DeSantis
-EVP & Chief Product Officer",S - Sale,,"-2,444",297.93,"-728,133.83","9,428"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Robert DeSantis
-EVP & Chief Product Officer",S - Sale,,-273,298.00,"-81,353.67","9,428"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Robert DeSantis
-EVP & Chief Product Officer",S - Sale,,-273,298.00,"-81,353.67","9,428"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Robert DeSantis
-EVP & Chief Product Officer",S - Sale,,"-1,086",297.92,"-323,539.06","9,428"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Robert DeSantis
-EVP & Chief Product Officer",S - Sale,,"-2,184",297.92,"-650,653.13","9,428"
-2023-04-24,2023-04-24,4,TSI,Common Stock,"Laird Landmann
-PORTFOLIO MANAGER",S - Sale,,"-3,165",4.71,"-14,907.15","51,035"
-2023-04-24,2023-04-21,4,TSI,Common Stock,"Laird Landmann
-PORTFOLIO MANAGER",S - Sale,,"-8,000",4.71,"-37,659.20","54,200"
-2023-04-24,2023-04-20,4,KPTI,Common Stock,"Reshma Rangwala
-EVP & Chief Medical Officer",S - Sale,,"-6,655",4.05,"-26,952.75","158,230"
-2023-04-24,2023-04-20,4,KPTI,Common Stock,"Reshma Rangwala
-EVP & Chief Medical Officer",S - Sale,,-115,4.03,-463.07,"164,885"
-2023-04-24,2023-04-21,4,PLPC,"Common shares, $2 par value","Michael E Gibbons
-Director",P - Purchase,,12,127.69,"1,532.28","8,270"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Craig H Barratt
-Director",S - Sale,,"-2,000",297.92,"-595,836.60",0
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Craig H Barratt
-Director",S - Sale,,"-2,000",297.93,"-595,850.40",0
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Craig H Barratt
-Director",S - Sale,,"-2,000",297.92,"-595,837.20",0
-2023-04-24,2023-04-21,4,DASH,Class A Common Stock,"Andy Fang
-Director",S - Sale,,-21,59.61,"-1,251.81","54,015"
-2023-04-24,2023-04-21,4,DASH,Class A Common Stock,"Andy Fang
-Director",S - Sale,,"-66,979",59.20,"-3,965,223.78","54,036"
-2023-04-24,2023-04-20,4,DASH,Class A Common Stock,"Andy Fang
-Director",S - Sale,,"-67,000",60.69,"-4,066,498.00","54,015"
-2023-04-24,2023-04-20,4,FSLY,Class A Common Stock,"Brett Shirk
-Executive Vice President, CRO",S - Sale,,"-4,351",16.52,"-71,878.52","320,833"
-2023-04-24,2023-04-21,4,HBCP,Common Stock,"Chris P Rader
-Director",P - Purchase,,334,32.90,"10,988.60","8,189"
-2023-04-24,2023-04-20,4,COUR,Common Stock,"Michele M Meyers
-VP, Accounting, and CAO",S - Sale,,"-7,438",10.17,"-75,633.30","251,853"
-2023-04-24,2023-04-21,4,RANI,Class A Common Stock,"South Cone Investments Limited Partnership
-10% Owner",P - Purchase,,"4,100",4.93,"20,223.66","6,843,798"
-2023-04-24,2023-04-20,4,RANI,Class A Common Stock,"South Cone Investments Limited Partnership
-10% Owner",P - Purchase,,"1,850",5.32,"9,850.51","6,839,698"
-2023-04-24,2023-04-24,4,NNBR,"Common Stock, par value $0.01 per share","Corre Partners Management, LLC
-10% Owner",P - Purchase,,"1,200",1.06,"1,277.52","5,380,686"
-2023-04-24,2023-04-21,4,NNBR,"Common Stock, par value $0.01 per share","Corre Partners Management, LLC
-10% Owner",P - Purchase,,"13,031",1.07,"13,884.53","5,379,486"
-2023-04-24,2023-04-20,4,NNBR,"Common Stock, par value $0.01 per share","Corre Partners Management, LLC
-10% Owner",P - Purchase,,200,1.08,216.00,"5,366,455"
-2023-04-24,2023-04-20,4,PSMT,"Common Stock, $0.0001 par value per share","Bahrambeygui Sherry S.
-Director",S - Sale,,-300,75.73,"-22,718.70","84,195"
-2023-04-24,2023-04-21,4,EXPI,Common Stock,"Penny Sanford
-10% Owner",S - Sale,,"-7,467",12.00,"-89,625.65","27,144,811"
-2023-04-24,2023-04-20,4,EXPI,Common Stock,"Penny Sanford
-10% Owner",S - Sale,,"-11,765",12.02,"-141,469.42","27,152,278"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Curet Myriam
-EVP & Chief Medical Officer",S - Sale,,-505,300.00,"-151,500.00",327
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Curet Myriam
-EVP & Chief Medical Officer",S - Sale,,"-1,118",297.92,"-333,070.65",832
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Curet Myriam
-EVP & Chief Medical Officer",S - Sale,,"-6,000",300.00,"-1,800,006.60","1,950"
-2023-04-24,2023-04-21,4,ISRG,Common Stock,"Curet Myriam
-EVP & Chief Medical Officer",S - Sale,,"-2,000",300.00,"-600,002.20","1,950"
-2023-04-24,2023-04-20,4,ADBE,Common Stock,"John E Warnock
-Director",S - Sale,,-672,378.94,"-254,647.21","378,965"
-2023-04-24,2023-04-21,4,DAL,Common Stock,"David S Taylor
-Director",P - Purchase,,"5,000",34.26,"171,275.00","20,360"
-2023-04-24,2023-04-21,4,CFG,Common Stock,"Subramaniam Shivan S.
-Director",P - Purchase,,"3,300",28.79,"95,007.00","66,263"
-2023-04-24,2023-04-21,4,USB,"Common Stock, $0.01 par value","Colberg Alan B.
-Director",P - Purchase,,"10,000",34.14,"341,380.00","10,050"
-2023-04-24,2023-04-24,4,NKSH,Common Stock,"John Elliott Dooley
-Director",P - Purchase,,"1,300",32.25,"41,925.00","12,347"
+2023-04-24,2023-04-20,4,SDIG,"Class A common stock, par value $0.0001","Gregory A Beard Chief Executive Officer, Director, 10% Owner",P - Purchase,,"1,000,000",1.00,"1,000,000.00","3,986,507"
+2023-04-24,2023-04-24,4,ISRG,Common Stock,Rosa David J. EVP Chief Strategy & Growth Of,S - Sale,,"-40,764",299.20,"-12,196,446.13","155,712"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Rosa David J. EVP Chief Strategy & Growth Of,S - Sale,,"-40,800",297.92,"-12,155,172.72","142,476"
+2023-04-24,2023-04-24,4,NTRA,Common Stock,"Steven Leonard Chapman CEO AND PRESIDENT, Director",S - Sale,,-885,54.98,"-48,657.30","212,405"
+2023-04-24,2023-04-21,4,NTRA,Common Stock,"Steven Leonard Chapman CEO AND PRESIDENT, Director",S - Sale,,"-1,689",54.27,"-91,662.03","211,516"
+2023-04-24,2023-04-24,4,NTRA,Common Stock,Michael Burkes Brophy CHIEF FINANCIAL OFFICER,S - Sale,,-949,54.98,"-52,176.02","67,197"
+2023-04-24,2023-04-21,4,NTRA,Common Stock,Michael Burkes Brophy CHIEF FINANCIAL OFFICER,S - Sale,,-603,54.27,"-32,724.81","65,751"
+2023-04-24,2023-04-24,4,NTRA,Common Stock,Daniel Rabinowitz SEC. AND CHIEF LEGAL OFFICER,S - Sale,,-342,54.98,"-18,803.16","177,143"
+2023-04-24,2023-04-21,4,NTRA,Common Stock,Daniel Rabinowitz SEC. AND CHIEF LEGAL OFFICER,S - Sale,,-454,54.27,"-24,638.58","176,841"
+2023-04-24,2023-04-24,4,NTRA,Common Stock,Jonathan Sheena Director,S - Sale,,-43,54.98,"-2,364.14","524,746"
+2023-04-24,2023-04-21,4,NTRA,Common Stock,Jonathan Sheena Director,S - Sale,,-233,54.22,"-12,633.80","524,646"
+2023-04-24,2023-04-21,4,NTRA,Common Stock,Jonathan Sheena Director,S - Sale,,-57,54.27,"-3,093.39","524,879"
+2023-04-24,2023-04-20,4,SGH,Ordinary Shares,"Thierry Pellegrino SVP, Pres, IPS",S - Sale,,"-2,764",15.98,"-44,165.13","74,951"
+2023-04-24,2023-04-21,4,VIR,Common Stock,Endurance (Cayman) Ltd SVF 10% Owner,S - Sale,,"-15,908",26.01,"-413,752.76","17,904,799"
+2023-04-24,2023-04-21,4,VIR,Common Stock,Endurance (Cayman) Ltd SVF 10% Owner,S - Sale,,"-289,485",25.76,"-7,458,494.18","17,920,707"
+2023-04-24,2023-04-20,4,VIR,Common Stock,Endurance (Cayman) Ltd SVF 10% Owner,S - Sale,,"-6,590",25.06,"-165,147.38","18,210,192"
+2023-04-24,2023-04-24,4,ATEC,Common Stock,"Craig E Hunsaker EVP, PEOPLE/CULTURE & GC",S - Sale,,"-28,311",15.85,"-448,729.35","1,285,694"
+2023-04-24,2023-04-24,4,CRM,Common Stock,Amy E Weaver President and CFO,S - Sale,,-510,196.33,"-100,128.56","36,680"
+2023-04-24,2023-04-24,4,CRM,Common Stock,Srinivas Tallapragada Pres/Chief Engineering Officer,S - Sale,,-1,194.51,-194.51,"55,962"
+2023-04-24,2023-04-24,4,CRM,Common Stock,Srinivas Tallapragada Pres/Chief Engineering Officer,S - Sale,,-560,196.33,"-109,945.08","55,963"
+2023-04-24,2023-04-24,4,CRM,Common Stock,Reddy Sundeep G. EVP & Chief Accounting Officer,S - Sale,,-164,196.33,"-32,198.20","1,884"
+2023-04-24,2023-04-24,4,CRM,Common Stock,Brian Millham President and COO,S - Sale,,-329,196.33,"-64,592.73","13,773"
+2023-04-24,2023-04-24,4,LOAN,Common Stock,"Assaf Ran President and CEO, Director, 10% Owner",P - Purchase,,"5,000",5.01,"25,050.00","2,598,000"
+2023-04-24,2023-04-20,4,AXNX,Common Stock,Dearen Danny L. President & CFO,S - Sale,,"-2,001",60.01,"-120,072.61","23,993"
+2023-04-24,2023-04-24,4,CRM,Common Stock,Brent Hyder President/Chief People Officer,S - Sale,,-255,196.33,"-50,064.28","9,227"
+2023-04-24,2023-04-24,4,CRM,Common Stock,Brent Hyder President/Chief People Officer,S - Sale,,-526,196.33,"-103,269.84","9,482"
+2023-04-24,2023-04-24,4,CRM,Common Stock,"Parker Harris Co-Founder and CTO, Director",S - Sale,,-1,194.53,-194.53,"100,309"
+2023-04-24,2023-04-24,4,CRM,Common Stock,"Parker Harris Co-Founder and CTO, Director",S - Sale,,-560,196.33,"-109,945.08","100,310"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-349,297.94,"-103,981.13","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-349,297.94,"-103,982.56","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-349,297.93,"-103,976.91","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-173,297.89,"-51,535.71","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-463,297.89,"-137,925.06","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-927,297.94,"-276,194.37","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-927,297.93,"-276,179.35","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-927,297.94,"-276,190.57","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-299,297.89,"-89,070.40","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-598,297.94,"-178,170.69","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-598,297.93,"-178,161.00","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-598,297.94,"-178,168.24","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-235,297.89,"-70,005.16","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-472,297.94,"-140,629.71","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-472,297.93,"-140,622.06","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-472,297.94,"-140,627.77","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-230,297.89,"-68,515.69","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-460,297.94,"-137,054.38","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-460,297.93,"-137,046.93","15,000"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Mark J Rubash Director,S - Sale,,-460,297.94,"-137,052.49","15,000"
+2023-04-24,2023-04-24,4,TMRC,Common Stock,Marchese Anthony G. Director,P - Purchase,,"6,000",0.96,"5,760.00","4,086,272"
+2023-04-24,2023-04-24,4,VKTX,"Common Stock, par value $0.00001 per share",Lawson Macartney Director,S - Sale,,"-16,000",22.00,"-352,060.80","47,965"
+2023-04-24,2023-04-20,4,XPOF,Class A Common Stock,"Anthony Geisler Chief Executive Officer, Director, 10% Owner",S - Sale,,"-5,393",33.05,"-178,238.65","438,086"
+2023-04-24,2023-04-24,4,IRMD,Common Stock,"Susi Roger E. President, CEO and Chairman, Director, 10% Owner",S - Sale,,"-10,000",41.23,"-412,324.00","512,950"
+2023-04-24,2023-04-20,4,NONE,Limited Liability Company Units,Marguerite Brogan Director,P - Purchase,,0,0.00,0.00,"1,912"
+2023-04-24,2023-04-20,4,NONE,Limited Liability Company Units,Edward Gellert Director,P - Purchase,,0,0.00,0.00,0
+2023-04-24,2023-04-24,4,ENVX,Common Stock,Betsy S Atkins Director,S - Sale,,"-5,000",12.36,"-61,800.00","192,561"
+2023-04-24,2023-04-21,4,DNLI,Common Stock,"Watts Ryan J. President and CEO, Director",S - Sale,,"-24,800",25.15,"-623,720.00","2,239,913"
+2023-04-24,2023-04-20,4,DNLI,Common Stock,"Watts Ryan J. President and CEO, Director",S - Sale,,-200,25.00,"-5,000.00","2,239,913"
+2023-04-24,2023-04-24,4,AULT,Common Stock,"Milton C Iii Ault Executive Chairman, Director, 10% Owner",P - Purchase,,"240,000",0.10,"24,264.00","50,480,000"
+2023-04-24,2023-04-21,4,AULT,Common Stock,"Milton C Iii Ault Executive Chairman, Director, 10% Owner",P - Purchase,,"240,000",0.10,"24,960.00","50,240,000"
+2023-04-24,2023-04-20,4,ATEC,Common Stock,John Todd Koning CHIEF FINANCIAL OFFICER,S - Sale,,"-16,500",16.42,"-270,930.00","415,552"
+2023-04-24,2023-04-24,4,CROX,Common Stock,"Andrew Rees Chief Executive Officer, Director",S - Sale,,"-10,000",150.05,"-1,500,546.00","89,748"
+2023-04-24,2023-04-24,4,BLZE,Class A Common Stock,"Gleb Budman CEO and Chairperson, Director, 10% Owner",S - Sale,,"-2,000",4.27,"-8,540.00","87,128"
+2023-04-24,2023-04-21,4,BLZE,Class A Common Stock,"Gleb Budman CEO and Chairperson, Director, 10% Owner",S - Sale,,"-2,000",4.40,"-8,800.00","89,128"
+2023-04-24,2023-04-20,4,BLZE,Class A Common Stock,"Gleb Budman CEO and Chairperson, Director, 10% Owner",S - Sale,,"-2,000",4.41,"-8,820.00","91,128"
+2023-04-24,2023-04-24,4,BLZE,Class A Common Stock,"Timothy M Nufire Director, 10% Owner",S - Sale,,"-2,000",4.27,"-8,540.00","1,084,000"
+2023-04-24,2023-04-21,4,BLZE,Class A Common Stock,"Timothy M Nufire Director, 10% Owner",S - Sale,,"-2,000",4.38,"-8,760.00","1,086,000"
+2023-04-24,2023-04-20,4,BLZE,Class A Common Stock,"Timothy M Nufire Director, 10% Owner",S - Sale,,"-2,000",4.41,"-8,820.00","1,088,000"
+2023-04-24,2023-04-21,4,GO,Common Stock,Thomas F Herman Director,S - Sale,,"-2,000",29.00,"-58,000.00","29,400"
+2023-04-24,2023-04-21,4,STGC,Common Stock,"Ronald David Miller Director, 10% Owner",S - Sale,,-108,0.00,0.00,"3,743,213"
+2023-04-24,2023-04-21,4,STGC,Common Stock,"Ronald David Miller Director, 10% Owner",S - Sale,,-985,25.00,"-24,625.00","3,743,321"
+2023-04-24,2023-04-21,4,STGC,Common Stock,Lee Miller 10% Owner,S - Sale,,-108,0.00,0.00,"3,743,213"
+2023-04-24,2023-04-21,4,STGC,Common Stock,Lee Miller 10% Owner,S - Sale,,-985,25.00,"-24,625.00","3,743,321"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Fredrik Widman VP Corporate Controller,S - Sale,,-630,297.87,"-187,658.10","2,233"
+2023-04-24,2023-04-21,4,STGC,Common Stock,Jonathan Reyes Chief Compliance Officer,S - Sale,,-3,0.00,0.00,"1,207"
+2023-04-24,2023-04-21,4,STGC,Common Stock,Jonathan Reyes Chief Compliance Officer,S - Sale,,-23,25.00,-575.00,"1,210"
+2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Scott Farquhar Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,"-3,364",158.57,"-533,430.49","407,130"
+2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Scott Farquhar Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,"-2,940",156.82,"-461,055.80","410,494"
+2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Scott Farquhar Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,"-1,710",157.87,"-269,958.90","413,434"
+2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Scott Farquhar Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,-600,156.03,"-93,619.62","415,144"
+2023-04-24,2023-04-21,4,STGC,Common Stock,"Joshua Daniel Amster VP, Fundraising",S - Sale,,-12,0.00,0.00,"6,791"
+2023-04-24,2023-04-21,4,STGC,Common Stock,"Joshua Daniel Amster VP, Fundraising",S - Sale,,-111,25.00,"-2,775.00","6,803"
+2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Michael Cannon-Brookes Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,-600,156.03,"-93,619.68","407,130"
+2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Michael Cannon-Brookes Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,"-1,711",157.87,"-270,116.25","407,730"
+2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Michael Cannon-Brookes Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,"-2,939",156.82,"-460,898.68","409,441"
+2023-04-24,2023-04-21,4,TEAM,Class A Common Stock,"Michael Cannon-Brookes Co-CEO, Co-Founder, Director, 10% Owner",S - Sale,,"-3,364",158.57,"-533,430.49","412,380"
+2023-04-24,2023-04-21,4,STGC,Common Stock,"Howard Edward Marks Chief Executive Officer, Director",S - Sale,,-26,0.00,0.00,"1,001,614"
+2023-04-24,2023-04-21,4,STGC,Common Stock,"Howard Edward Marks Chief Executive Officer, Director",S - Sale,,-236,25.00,"-5,900.00","1,001,640"
+2023-04-24,2023-04-21,4,STGC,Common Stock,"Howard Edward Marks Chief Executive Officer, Director",S - Sale,,-242,0.00,0.00,"8,997,260"
+2023-04-24,2023-04-21,4,STGC,Common Stock,"Howard Edward Marks Chief Executive Officer, Director",S - Sale,,"-2,258",25.00,"-56,450.00","8,997,502"
+2023-04-24,2023-04-21,4,STGC,Common Stock,Aubrey Chernick 10% Owner,S - Sale,,-240,0.00,0.00,"172,016"
+2023-04-24,2023-04-21,4,STGC,Common Stock,Aubrey Chernick 10% Owner,S - Sale,,"-2,198",25.00,"-54,950.00","172,256"
+2023-04-24,2023-04-21,4,STGC,Common Stock,Johanna Cronin Chief Marketing Officer,S - Sale,,-31,0.00,0.00,"20,213"
+2023-04-24,2023-04-21,4,STGC,Common Stock,Johanna Cronin Chief Marketing Officer,S - Sale,,-287,25.00,"-7,175.00","20,244"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Robert DeSantis EVP & Chief Product Officer,S - Sale,,"-1,167",297.90,"-347,644.98","7,065"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Robert DeSantis EVP & Chief Product Officer,S - Sale,,"-1,196",297.91,"-356,302.27","8,232"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Robert DeSantis EVP & Chief Product Officer,S - Sale,,"-2,444",297.93,"-728,133.83","9,428"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Robert DeSantis EVP & Chief Product Officer,S - Sale,,-273,298.00,"-81,353.67","9,428"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Robert DeSantis EVP & Chief Product Officer,S - Sale,,-273,298.00,"-81,353.67","9,428"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Robert DeSantis EVP & Chief Product Officer,S - Sale,,"-1,086",297.92,"-323,539.06","9,428"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Robert DeSantis EVP & Chief Product Officer,S - Sale,,"-2,184",297.92,"-650,653.13","9,428"
+2023-04-24,2023-04-24,4,TSI,Common Stock,Laird Landmann PORTFOLIO MANAGER,S - Sale,,"-3,165",4.71,"-14,907.15","51,035"
+2023-04-24,2023-04-21,4,TSI,Common Stock,Laird Landmann PORTFOLIO MANAGER,S - Sale,,"-8,000",4.71,"-37,659.20","54,200"
+2023-04-24,2023-04-20,4,KPTI,Common Stock,Reshma Rangwala EVP & Chief Medical Officer,S - Sale,,"-6,655",4.05,"-26,952.75","158,230"
+2023-04-24,2023-04-20,4,KPTI,Common Stock,Reshma Rangwala EVP & Chief Medical Officer,S - Sale,,-115,4.03,-463.07,"164,885"
+2023-04-24,2023-04-21,4,PLPC,"Common shares, $2 par value",Michael E Gibbons Director,P - Purchase,,12,127.69,"1,532.28","8,270"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Craig H Barratt Director,S - Sale,,"-2,000",297.92,"-595,836.60",0
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Craig H Barratt Director,S - Sale,,"-2,000",297.93,"-595,850.40",0
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Craig H Barratt Director,S - Sale,,"-2,000",297.92,"-595,837.20",0
+2023-04-24,2023-04-21,4,DASH,Class A Common Stock,Andy Fang Director,S - Sale,,-21,59.61,"-1,251.81","54,015"
+2023-04-24,2023-04-21,4,DASH,Class A Common Stock,Andy Fang Director,S - Sale,,"-66,979",59.20,"-3,965,223.78","54,036"
+2023-04-24,2023-04-20,4,DASH,Class A Common Stock,Andy Fang Director,S - Sale,,"-67,000",60.69,"-4,066,498.00","54,015"
+2023-04-24,2023-04-20,4,FSLY,Class A Common Stock,"Brett Shirk Executive Vice President, CRO",S - Sale,,"-4,351",16.52,"-71,878.52","320,833"
+2023-04-24,2023-04-21,4,HBCP,Common Stock,Chris P Rader Director,P - Purchase,,334,32.90,"10,988.60","8,189"
+2023-04-24,2023-04-20,4,COUR,Common Stock,"Michele M Meyers VP, Accounting, and CAO",S - Sale,,"-7,438",10.17,"-75,633.30","251,853"
+2023-04-24,2023-04-21,4,RANI,Class A Common Stock,South Cone Investments Limited Partnership 10% Owner,P - Purchase,,"4,100",4.93,"20,223.66","6,843,798"
+2023-04-24,2023-04-20,4,RANI,Class A Common Stock,South Cone Investments Limited Partnership 10% Owner,P - Purchase,,"1,850",5.32,"9,850.51","6,839,698"
+2023-04-24,2023-04-24,4,NNBR,"Common Stock, par value $0.01 per share","Corre Partners Management, LLC 10% Owner",P - Purchase,,"1,200",1.06,"1,277.52","5,380,686"
+2023-04-24,2023-04-21,4,NNBR,"Common Stock, par value $0.01 per share","Corre Partners Management, LLC 10% Owner",P - Purchase,,"13,031",1.07,"13,884.53","5,379,486"
+2023-04-24,2023-04-20,4,NNBR,"Common Stock, par value $0.01 per share","Corre Partners Management, LLC 10% Owner",P - Purchase,,200,1.08,216.00,"5,366,455"
+2023-04-24,2023-04-20,4,PSMT,"Common Stock, $0.0001 par value per share",Bahrambeygui Sherry S. Director,S - Sale,,-300,75.73,"-22,718.70","84,195"
+2023-04-24,2023-04-21,4,EXPI,Common Stock,Penny Sanford 10% Owner,S - Sale,,"-7,467",12.00,"-89,625.65","27,144,811"
+2023-04-24,2023-04-20,4,EXPI,Common Stock,Penny Sanford 10% Owner,S - Sale,,"-11,765",12.02,"-141,469.42","27,152,278"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Curet Myriam EVP & Chief Medical Officer,S - Sale,,-505,300.00,"-151,500.00",327
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Curet Myriam EVP & Chief Medical Officer,S - Sale,,"-1,118",297.92,"-333,070.65",832
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Curet Myriam EVP & Chief Medical Officer,S - Sale,,"-6,000",300.00,"-1,800,006.60","1,950"
+2023-04-24,2023-04-21,4,ISRG,Common Stock,Curet Myriam EVP & Chief Medical Officer,S - Sale,,"-2,000",300.00,"-600,002.20","1,950"
+2023-04-24,2023-04-20,4,ADBE,Common Stock,John E Warnock Director,S - Sale,,-672,378.94,"-254,647.21","378,965"
+2023-04-24,2023-04-21,4,DAL,Common Stock,David S Taylor Director,P - Purchase,,"5,000",34.26,"171,275.00","20,360"
+2023-04-24,2023-04-21,4,CFG,Common Stock,Subramaniam Shivan S. Director,P - Purchase,,"3,300",28.79,"95,007.00","66,263"
+2023-04-24,2023-04-21,4,USB,"Common Stock, $0.01 par value",Colberg Alan B. Director,P - Purchase,,"10,000",34.14,"341,380.00","10,050"
+2023-04-24,2023-04-24,4,NKSH,Common Stock,John Elliott Dooley Director,P - Purchase,,"1,300",32.25,"41,925.00","12,347"
 2023-04-24,2023-04-21,4,NONE,Common Shares,Richard Whitaker Booth,P - Purchase,,40,12.47,500.00,"2,593"
-2023-04-24,2023-04-20,4,SSD,Common Stock,"Karen Winifred Colonias
-Director",S - Sale,,-100,117.08,"-11,708.00","23,759"
-2023-04-24,2023-04-20,4,SSD,Common Stock,"Karen Winifred Colonias
-Director",S - Sale,,"-5,888",116.48,"-685,834.24","23,859"
-2023-04-24,2023-04-20,4,SSD,Common Stock,"Karen Winifred Colonias
-Director",S - Sale,,"-9,012",115.27,"-1,038,813.24","29,747"
-2023-04-24,2023-04-24,4,NKSH,Common Stock,"Sanders Bobby D. II
-SVP/Chief Credit Officer",P - Purchase,,300,31.51,"9,453.00",613
-2023-04-24,2023-04-20,4,TSCO,Common stock,"Colin Yankee
-EVP Supply Chain",S - Sale,,"-1,335",250.00,"-333,750.00","9,886"
-2023-04-24,2023-04-20,4,IBKR,Class A common stock,"Philip Uhde
-Director",S - Sale,,-100,83.92,"-8,392.00","2,270"
-2023-04-24,2023-04-20,4,IBKR,Class A common stock,"Philip Uhde
-Director",S - Sale,,"-3,200",83.36,"-266,752.00","2,370"
-2023-04-24,2023-04-20,4,IBKR,Class A common stock,"Philip Uhde
-Director",S - Sale,,"-47,592",82.09,"-3,906,827.28","5,570"
-2023-04-24,2023-04-20,4,IBKR,Class A common stock,"Philip Uhde
-Director",S - Sale,,"-57,952",81.42,"-4,718,451.84","53,162"
-2023-04-24,2023-04-20,4,LFLY,Common Stock,"Yoko Miyashita
-Chief Executive Officer, Director",S - Sale,,"-10,953",0.33,"-3,652.83","328,466"
-2023-04-24,2023-04-20,4,LFLY,Common Stock,"Suresh Krishnaswamy
-Chief Financial Officer",S - Sale,,"-4,216",0.33,"-1,406.04","224,684"
-2023-04-24,2023-04-24,4,AVTX,Common Stock,"Caissa Capital Management ltd.
-10% Owner",P - Purchase,,"12,500",3.06,"38,280.00","1,310,200"
-2023-04-24,2023-04-20,4,AVTX,Common Stock,"Caissa Capital Management ltd.
-10% Owner",P - Purchase,,"5,000",3.08,"15,391.50","1,297,700"
-2023-04-24,2023-04-21,4,UTHR,Common Stock,"Martine A Rothblatt
-CHAIRPERSON & CEO, Director",S - Sale,,"-2,012",230.57,"-463,900.80",130
-2023-04-24,2023-04-21,4,UTHR,Common Stock,"Martine A Rothblatt
-CHAIRPERSON & CEO, Director",S - Sale,,"-1,800",229.73,"-413,518.86","2,142"
-2023-04-24,2023-04-21,4,UTHR,Common Stock,"Martine A Rothblatt
-CHAIRPERSON & CEO, Director",S - Sale,,"-1,250",228.80,"-286,005.75","3,942"
-2023-04-24,2023-04-21,4,UTHR,Common Stock,"Martine A Rothblatt
-CHAIRPERSON & CEO, Director",S - Sale,,"-1,631",227.47,"-371,006.02","5,192"
-2023-04-24,2023-04-21,4,UTHR,Common Stock,"Martine A Rothblatt
-CHAIRPERSON & CEO, Director",S - Sale,,"-1,307",226.57,"-296,125.29","6,823"
-2023-04-24,2023-04-20,4,UTHR,Common Stock,"Martine A Rothblatt
-CHAIRPERSON & CEO, Director",S - Sale,,"-1,066",225.61,"-240,495.25",130
-2023-04-24,2023-04-20,4,UTHR,Common Stock,"Martine A Rothblatt
-CHAIRPERSON & CEO, Director",S - Sale,,"-6,099",224.94,"-1,371,888.93","1,196"
-2023-04-24,2023-04-20,4,UTHR,Common Stock,"Martine A Rothblatt
-CHAIRPERSON & CEO, Director",S - Sale,,-835,223.76,"-186,842.86","7,295"
-2023-04-24,2023-04-20,4,SVT,Common Stock,"Estate of Nicholas D. Trbovich, Sr.
-10% Owner",S - Sale,,"-44,643",11.20,"-500,001.60","175,862"
-2023-04-24,2023-04-19,4,SVT,Common Stock,"Estate of Nicholas D. Trbovich, Sr.
-10% Owner",S - Sale,,"-44,643",11.20,"-500,001.60","92,875"
-2023-04-24,2023-04-20,4,PRGS,Common Stock,"Loren Jarrett
-EVP/GM Digital Experience",S - Sale,,"-9,267",56.57,"-524,251.80","9,961"
-2023-04-24,2023-04-20,4,PRGS,Common Stock,"Loren Jarrett
-EVP/GM Digital Experience",S - Sale,,"-13,271",56.57,"-750,699.33","19,228"
-2023-04-24,2023-04-20,4,PRGS,Common Stock,"Loren Jarrett
-EVP/GM Digital Experience",S - Sale,,"-23,490",56.58,"-1,328,977.29","19,228"
-2023-04-24,2023-04-24,4,NIC,Common Stock,"Hector Colon
-Director",P - Purchase,,170,57.98,"9,856.60","2,093"
-2023-04-24,2023-04-21,4,CASS,Common Stock,"Resch Martin H.
-President & CEO",P - Purchase,,"1,000",37.50,"37,500.00","20,262"
-2023-04-24,2023-04-20,4,CASS,Common Stock,"Resch Martin H.
-President & CEO",P - Purchase,,"1,166",36.16,"42,162.56","17,135"
-2023-04-24,2023-04-20,4,VRNT,Common Stock,"Dan Bodner
-Chairman & CEO, Director",S - Sale,,"-30,555",37.19,"-1,136,340.45","1,130,422"
-2023-04-24,2023-04-24,4,CASS,Common Stock,"Michael James Normile
-CFO",P - Purchase,,100,36.40,"3,640.00","10,342"
-2023-04-24,2023-04-20,4,CASS,Common Stock,"Michael James Normile
-CFO",P - Purchase,,250,36.25,"9,062.50","10,242"
-2023-04-24,2023-04-21,4,KIDS,Common Stock,"Gregory A Odle
-President of Scoliosis",S - Sale,,-644,50.02,"-32,211.91","87,402"
-2023-04-24,2023-04-20,4,TER,Common Stock,"Mercedes Johnson
-Director",S - Sale,,-750,100.00,"-75,000.00","17,487"
-2023-04-24,2023-04-21,4,ACN,Class A ordinary shares,"Joel Unruch
-General Counsel/Corp Secretary",S - Sale,,-263,277.21,"-72,906.89","42,739"
-2023-04-24,2023-04-21,4,ACN,Class A ordinary shares,"Joel Unruch
-General Counsel/Corp Secretary",S - Sale,,-293,276.46,"-81,003.25","43,002"
-2023-04-24,2023-04-21,4,BAH,Class A Common Stock,"Elizabeth M Thompson
-EVP & Chief People Officer",S - Sale,,"-27,925",99.00,"-2,764,575.00","20,474"
-2023-04-24,2023-04-20,4,ZIP,Class A Common Stock,"Sakamoto Ryan T.
-EVP, Chief Legal Officer",S - Sale,,"-1,072",17.27,"-18,513.44","82,443"
-2023-04-24,2023-04-21,4,HSY,Common Stock,"Rohit Grover
-President, International",S - Sale,,"-2,925",262.12,"-766,701.00","21,995"
-2023-04-24,2023-04-21,4,FTNT,Common Stock,"Patrice Perche
-Chief Revenue Off./EVP Supp.",S - Sale,,"-7,530",66.91,"-503,832.30","25,730"
-2023-04-24,2023-04-20,4,ZIP,Class A Common Stock,"Shimanovsky Boris F.
-EVP & Chief Technology Officer",S - Sale,,"-8,666",17.34,"-150,234.64","153,207"
-2023-04-24,2023-04-20,4,FYBR,"Common Stock, par value $0.01","Ares Management Llc
-10% Owner",P - Purchase,,"200,000",20.85,"4,169,180.00","37,494,654"
-2023-04-24,2023-04-20,4,QLYS,Common Stock,"Bruce K Posey
-Chief Legal Officer",S - Sale,,-148,124.90,"-18,485.02","60,928"
-2023-04-24,2023-04-20,4,QLYS,Common Stock,"Bruce K Posey
-Chief Legal Officer",S - Sale,,"-1,604",124.33,"-199,427.73","61,076"
-2023-04-24,2023-04-20,4,FYBR,"Common Stock, par value $0.01","Ares Management Llc
-10% Owner",P - Purchase,,"200,000",20.85,"4,169,180.00","37,494,654"
-2023-04-24,2023-04-20,4,FYBR,"Common Stock, par value $0.01","Ares Management Llc
-10% Owner",P - Purchase,,"200,000",20.85,"4,169,180.00","37,494,654"
-2023-04-24,2023-04-21,4,MBWM,Common Stock,"David B Ramaker
-Director",P - Purchase,,"3,000",28.98,"86,940.00","10,394"
-2023-04-24,2023-04-20,4,FYBR,"Common Stock, par value $0.01","Ares Management Llc
-10% Owner",P - Purchase,,"200,000",20.85,"4,169,180.00","37,494,654"
-2023-04-24,2023-04-20,4,FYBR,"Common Stock, par value $0.01","Ares Management Llc
-10% Owner",P - Purchase,,"200,000",20.85,"4,169,180.00","37,494,654"
-2023-04-24,2023-04-21,4,REGN,Common Stock,"Michael S Brown
-Director",S - Sale,,"-3,070",798.42,"-2,451,149.40","1,247"
-2023-04-24,2023-04-20,4,CACC,Common Stock,"Andrew K Rostami
-Chief Mktg and Product Officer",S - Sale,,-461,500.00,"-230,500.00","7,115"
-2023-04-24,2023-04-21,4,CODA,Common Stock,"Blair Graeme Cunningham
-President of Technology",S - Sale,,"-10,679",8.01,"-85,538.79","24,298"
-2023-04-24,2023-04-21,4,PTC,Common Stock,"Moret Blake D.
-Director",S - Sale,,"-3,931",126.79,"-498,418.57","6,854,534"
-2023-04-24,2023-04-21,4,PTC,Common Stock,"Moret Blake D.
-Director",S - Sale,,"-16,069",126.24,"-2,028,595.55","6,858,465"
-2023-04-24,2023-04-24,4,IBIO,Common Stock,"Martin Brenner
-See Remarks",S - Sale,,"-4,382",1.20,"-5,257.52","261,777"
-2023-04-24,2023-04-21,4,BFI,Common Stock,"John Rosatti Revocable Trust
-10% Owner",S - Sale,,"-10,000",1.11,"-11,055.00","3,873,396"
-2023-04-24,2023-04-20,4,BFI,Common Stock,"John Rosatti Revocable Trust
-10% Owner",S - Sale,,"-10,000",1.12,"-11,156.00","3,883,396"
-2023-04-24,2023-04-20,4,TMHC,Common Stock,"Louis Steffens
-EVP & Chief Financial Officer",S - Sale,,"-4,279",40.22,"-172,101.38","39,344"
-2023-04-24,2023-04-21,4,NIC,Common Stock,"Hubert Phillip Jr Moore
-CFO",P - Purchase,,912,57.02,"52,002.24","29,361"
-2023-04-24,2023-04-21,4,NIC,Common Stock,"Hubert Phillip Jr Moore
-CFO",P - Purchase,,588,56.03,"32,945.64","28,449"
-2023-04-24,2023-04-24,4,PG,Common Stock,"Francisco Ma. Fatima
-CEO - Baby, Fem & Family Care",S - Sale,,"-8,000",156.84,"-1,254,720.00","9,343"
-2023-04-24,2023-04-21,4,PGR,Common,"Steven Broz
-Chief Information Officer",S - Sale,,-930,137.79,"-128,144.70","27,251"
-2023-04-24,2023-04-21,4,PFBX,Common Stock,"Joseph Stilwell
-10% Owner",P - Purchase,,"1,000",12.24,"12,245.00","375,608"
-2023-04-24,2023-04-24,4,SRCE,Common Stock,"Mark D Schwabero
-Director",P - Purchase,,495,44.32,"21,938.40","21,104"
-2023-04-24,2023-04-24,4,MNSB,Common Stock,"Jeff W Dick
-Chairman, President and CEO, Director",P - Purchase,,556,21.50,"11,954.00","167,329"
-2023-04-24,2023-04-24,4,CMTV,Community Bancorp. Common Stock,"David Mark Bouffard
-Director",P - Purchase,,350,19.50,"6,825.00","4,406"
-2023-04-24,2023-04-21,4,RCG,Common Stock,"Murray Stahl
-President and CEO, Director",P - Purchase,,182,1.79,325.78,"217,382"
-2023-04-24,2023-04-21,4,RCG,Common Stock,"Murray Stahl
-President and CEO, Director",P - Purchase,,180,1.79,322.90,"214,000"
-2023-04-24,2023-04-21,4,RCG,Common Stock,"Murray Stahl
-President and CEO, Director",P - Purchase,,45,1.79,80.73,"53,527"
-2023-04-24,2023-04-21,4,RCG,Common Stock,"Murray Stahl
-President and CEO, Director",P - Purchase,,1,1.79,1.79,155
-2023-04-24,2023-04-21,4,RCG,Common Stock,"Murray Stahl
-President and CEO, Director",P - Purchase,,1,1.79,1.79,"3,772"
-2023-04-24,2023-04-21,4,BCBP,Common Stock,"Mark D Hogan
-Director",P - Purchase,,"10,000",11.04,"110,374.00","549,531"
-2023-04-24,2023-04-20,4,LEGH,"Common Stock, par value $0.001 per share (""Common Stock"")","William G Shipley
-10% Owner",S - Sale,,"-5,016",21.34,"-107,041.44","3,006,742"
-2023-04-24,2023-04-24,4,NKSH,Common Stock,"Norman V III Fitzwater
-Director",P - Purchase,,"1,000",32.59,"32,590.00","8,000"
-2023-04-24,2023-04-21,4,FNLC,Common Stock,"Kimberly Swan
-Director",P - Purchase,,"1,958",25.08,"49,108.60","8,543"
-2023-04-24,2023-04-20,4,CYTH,Common Stock,"Jeffrey Tate
-Chief Operating Officer, Director",P - Purchase,,"29,941",0.71,"21,258.11","62,101"
-2023-04-24,2023-04-20,4,CYTH,Common Stock,"Markus Sieger
-Director",P - Purchase,,"59,881",0.71,"42,515.51","161,051"
-2023-04-24,2023-04-20,4,CYTH,Common Stock,"Francis Patrick Ostronic
-Director",P - Purchase,,"59,881",0.71,"42,515.51","222,371"
-2023-04-24,2023-04-20,4,CYTH,Common Stock,"N Scott Fine
-Chief Executive Officer, Director",P - Purchase,,"299,402",0.71,"212,575.42","444,402"
+2023-04-24,2023-04-20,4,SSD,Common Stock,Karen Winifred Colonias Director,S - Sale,,-100,117.08,"-11,708.00","23,759"
+2023-04-24,2023-04-20,4,SSD,Common Stock,Karen Winifred Colonias Director,S - Sale,,"-5,888",116.48,"-685,834.24","23,859"
+2023-04-24,2023-04-20,4,SSD,Common Stock,Karen Winifred Colonias Director,S - Sale,,"-9,012",115.27,"-1,038,813.24","29,747"
+2023-04-24,2023-04-24,4,NKSH,Common Stock,Sanders Bobby D. II SVP/Chief Credit Officer,P - Purchase,,300,31.51,"9,453.00",613
+2023-04-24,2023-04-20,4,TSCO,Common stock,Colin Yankee EVP Supply Chain,S - Sale,,"-1,335",250.00,"-333,750.00","9,886"
+2023-04-24,2023-04-20,4,IBKR,Class A common stock,Philip Uhde Director,S - Sale,,-100,83.92,"-8,392.00","2,270"
+2023-04-24,2023-04-20,4,IBKR,Class A common stock,Philip Uhde Director,S - Sale,,"-3,200",83.36,"-266,752.00","2,370"
+2023-04-24,2023-04-20,4,IBKR,Class A common stock,Philip Uhde Director,S - Sale,,"-47,592",82.09,"-3,906,827.28","5,570"
+2023-04-24,2023-04-20,4,IBKR,Class A common stock,Philip Uhde Director,S - Sale,,"-57,952",81.42,"-4,718,451.84","53,162"
+2023-04-24,2023-04-20,4,LFLY,Common Stock,"Yoko Miyashita Chief Executive Officer, Director",S - Sale,,"-10,953",0.33,"-3,652.83","328,466"
+2023-04-24,2023-04-20,4,LFLY,Common Stock,Suresh Krishnaswamy Chief Financial Officer,S - Sale,,"-4,216",0.33,"-1,406.04","224,684"
+2023-04-24,2023-04-24,4,AVTX,Common Stock,Caissa Capital Management ltd. 10% Owner,P - Purchase,,"12,500",3.06,"38,280.00","1,310,200"
+2023-04-24,2023-04-20,4,AVTX,Common Stock,Caissa Capital Management ltd. 10% Owner,P - Purchase,,"5,000",3.08,"15,391.50","1,297,700"
+2023-04-24,2023-04-21,4,UTHR,Common Stock,"Martine A Rothblatt CHAIRPERSON & CEO, Director",S - Sale,,"-2,012",230.57,"-463,900.80",130
+2023-04-24,2023-04-21,4,UTHR,Common Stock,"Martine A Rothblatt CHAIRPERSON & CEO, Director",S - Sale,,"-1,800",229.73,"-413,518.86","2,142"
+2023-04-24,2023-04-21,4,UTHR,Common Stock,"Martine A Rothblatt CHAIRPERSON & CEO, Director",S - Sale,,"-1,250",228.80,"-286,005.75","3,942"
+2023-04-24,2023-04-21,4,UTHR,Common Stock,"Martine A Rothblatt CHAIRPERSON & CEO, Director",S - Sale,,"-1,631",227.47,"-371,006.02","5,192"
+2023-04-24,2023-04-21,4,UTHR,Common Stock,"Martine A Rothblatt CHAIRPERSON & CEO, Director",S - Sale,,"-1,307",226.57,"-296,125.29","6,823"
+2023-04-24,2023-04-20,4,UTHR,Common Stock,"Martine A Rothblatt CHAIRPERSON & CEO, Director",S - Sale,,"-1,066",225.61,"-240,495.25",130
+2023-04-24,2023-04-20,4,UTHR,Common Stock,"Martine A Rothblatt CHAIRPERSON & CEO, Director",S - Sale,,"-6,099",224.94,"-1,371,888.93","1,196"
+2023-04-24,2023-04-20,4,UTHR,Common Stock,"Martine A Rothblatt CHAIRPERSON & CEO, Director",S - Sale,,-835,223.76,"-186,842.86","7,295"
+2023-04-24,2023-04-20,4,SVT,Common Stock,"Estate of Nicholas D. Trbovich, Sr. 10% Owner",S - Sale,,"-44,643",11.20,"-500,001.60","175,862"
+2023-04-24,2023-04-19,4,SVT,Common Stock,"Estate of Nicholas D. Trbovich, Sr. 10% Owner",S - Sale,,"-44,643",11.20,"-500,001.60","92,875"
+2023-04-24,2023-04-20,4,PRGS,Common Stock,Loren Jarrett EVP/GM Digital Experience,S - Sale,,"-9,267",56.57,"-524,251.80","9,961"
+2023-04-24,2023-04-20,4,PRGS,Common Stock,Loren Jarrett EVP/GM Digital Experience,S - Sale,,"-13,271",56.57,"-750,699.33","19,228"
+2023-04-24,2023-04-20,4,PRGS,Common Stock,Loren Jarrett EVP/GM Digital Experience,S - Sale,,"-23,490",56.58,"-1,328,977.29","19,228"
+2023-04-24,2023-04-24,4,NIC,Common Stock,Hector Colon Director,P - Purchase,,170,57.98,"9,856.60","2,093"
+2023-04-24,2023-04-21,4,CASS,Common Stock,Resch Martin H. President & CEO,P - Purchase,,"1,000",37.50,"37,500.00","20,262"
+2023-04-24,2023-04-20,4,CASS,Common Stock,Resch Martin H. President & CEO,P - Purchase,,"1,166",36.16,"42,162.56","17,135"
+2023-04-24,2023-04-20,4,VRNT,Common Stock,"Dan Bodner Chairman & CEO, Director",S - Sale,,"-30,555",37.19,"-1,136,340.45","1,130,422"
+2023-04-24,2023-04-24,4,CASS,Common Stock,Michael James Normile CFO,P - Purchase,,100,36.40,"3,640.00","10,342"
+2023-04-24,2023-04-20,4,CASS,Common Stock,Michael James Normile CFO,P - Purchase,,250,36.25,"9,062.50","10,242"
+2023-04-24,2023-04-21,4,KIDS,Common Stock,Gregory A Odle President of Scoliosis,S - Sale,,-644,50.02,"-32,211.91","87,402"
+2023-04-24,2023-04-20,4,TER,Common Stock,Mercedes Johnson Director,S - Sale,,-750,100.00,"-75,000.00","17,487"
+2023-04-24,2023-04-21,4,ACN,Class A ordinary shares,Joel Unruch General Counsel/Corp Secretary,S - Sale,,-263,277.21,"-72,906.89","42,739"
+2023-04-24,2023-04-21,4,ACN,Class A ordinary shares,Joel Unruch General Counsel/Corp Secretary,S - Sale,,-293,276.46,"-81,003.25","43,002"
+2023-04-24,2023-04-21,4,BAH,Class A Common Stock,Elizabeth M Thompson EVP & Chief People Officer,S - Sale,,"-27,925",99.00,"-2,764,575.00","20,474"
+2023-04-24,2023-04-20,4,ZIP,Class A Common Stock,"Sakamoto Ryan T. EVP, Chief Legal Officer",S - Sale,,"-1,072",17.27,"-18,513.44","82,443"
+2023-04-24,2023-04-21,4,HSY,Common Stock,"Rohit Grover President, International",S - Sale,,"-2,925",262.12,"-766,701.00","21,995"
+2023-04-24,2023-04-21,4,FTNT,Common Stock,Patrice Perche Chief Revenue Off./EVP Supp.,S - Sale,,"-7,530",66.91,"-503,832.30","25,730"
+2023-04-24,2023-04-20,4,ZIP,Class A Common Stock,Shimanovsky Boris F. EVP & Chief Technology Officer,S - Sale,,"-8,666",17.34,"-150,234.64","153,207"
+2023-04-24,2023-04-20,4,FYBR,"Common Stock, par value $0.01",Ares Management Llc 10% Owner,P - Purchase,,"200,000",20.85,"4,169,180.00","37,494,654"
+2023-04-24,2023-04-20,4,QLYS,Common Stock,Bruce K Posey Chief Legal Officer,S - Sale,,-148,124.90,"-18,485.02","60,928"
+2023-04-24,2023-04-20,4,QLYS,Common Stock,Bruce K Posey Chief Legal Officer,S - Sale,,"-1,604",124.33,"-199,427.73","61,076"
+2023-04-24,2023-04-20,4,FYBR,"Common Stock, par value $0.01",Ares Management Llc 10% Owner,P - Purchase,,"200,000",20.85,"4,169,180.00","37,494,654"
+2023-04-24,2023-04-20,4,FYBR,"Common Stock, par value $0.01",Ares Management Llc 10% Owner,P - Purchase,,"200,000",20.85,"4,169,180.00","37,494,654"
+2023-04-24,2023-04-21,4,MBWM,Common Stock,David B Ramaker Director,P - Purchase,,"3,000",28.98,"86,940.00","10,394"
+2023-04-24,2023-04-20,4,FYBR,"Common Stock, par value $0.01",Ares Management Llc 10% Owner,P - Purchase,,"200,000",20.85,"4,169,180.00","37,494,654"
+2023-04-24,2023-04-20,4,FYBR,"Common Stock, par value $0.01",Ares Management Llc 10% Owner,P - Purchase,,"200,000",20.85,"4,169,180.00","37,494,654"
+2023-04-24,2023-04-21,4,REGN,Common Stock,Michael S Brown Director,S - Sale,,"-3,070",798.42,"-2,451,149.40","1,247"
+2023-04-24,2023-04-20,4,CACC,Common Stock,Andrew K Rostami Chief Mktg and Product Officer,S - Sale,,-461,500.00,"-230,500.00","7,115"
+2023-04-24,2023-04-21,4,CODA,Common Stock,Blair Graeme Cunningham President of Technology,S - Sale,,"-10,679",8.01,"-85,538.79","24,298"
+2023-04-24,2023-04-21,4,PTC,Common Stock,Moret Blake D. Director,S - Sale,,"-3,931",126.79,"-498,418.57","6,854,534"
+2023-04-24,2023-04-21,4,PTC,Common Stock,Moret Blake D. Director,S - Sale,,"-16,069",126.24,"-2,028,595.55","6,858,465"
+2023-04-24,2023-04-24,4,IBIO,Common Stock,Martin Brenner See Remarks,S - Sale,,"-4,382",1.20,"-5,257.52","261,777"
+2023-04-24,2023-04-21,4,BFI,Common Stock,John Rosatti Revocable Trust 10% Owner,S - Sale,,"-10,000",1.11,"-11,055.00","3,873,396"
+2023-04-24,2023-04-20,4,BFI,Common Stock,John Rosatti Revocable Trust 10% Owner,S - Sale,,"-10,000",1.12,"-11,156.00","3,883,396"
+2023-04-24,2023-04-20,4,TMHC,Common Stock,Louis Steffens EVP & Chief Financial Officer,S - Sale,,"-4,279",40.22,"-172,101.38","39,344"
+2023-04-24,2023-04-21,4,NIC,Common Stock,Hubert Phillip Jr Moore CFO,P - Purchase,,912,57.02,"52,002.24","29,361"
+2023-04-24,2023-04-21,4,NIC,Common Stock,Hubert Phillip Jr Moore CFO,P - Purchase,,588,56.03,"32,945.64","28,449"
+2023-04-24,2023-04-24,4,PG,Common Stock,"Francisco Ma. Fatima CEO - Baby, Fem & Family Care",S - Sale,,"-8,000",156.84,"-1,254,720.00","9,343"
+2023-04-24,2023-04-21,4,PGR,Common,Steven Broz Chief Information Officer,S - Sale,,-930,137.79,"-128,144.70","27,251"
+2023-04-24,2023-04-21,4,PFBX,Common Stock,Joseph Stilwell 10% Owner,P - Purchase,,"1,000",12.24,"12,245.00","375,608"
+2023-04-24,2023-04-24,4,SRCE,Common Stock,Mark D Schwabero Director,P - Purchase,,495,44.32,"21,938.40","21,104"
+2023-04-24,2023-04-24,4,MNSB,Common Stock,"Jeff W Dick Chairman, President and CEO, Director",P - Purchase,,556,21.50,"11,954.00","167,329"
+2023-04-24,2023-04-24,4,CMTV,Community Bancorp. Common Stock,David Mark Bouffard Director,P - Purchase,,350,19.50,"6,825.00","4,406"
+2023-04-24,2023-04-21,4,RCG,Common Stock,"Murray Stahl President and CEO, Director",P - Purchase,,182,1.79,325.78,"217,382"
+2023-04-24,2023-04-21,4,RCG,Common Stock,"Murray Stahl President and CEO, Director",P - Purchase,,180,1.79,322.90,"214,000"
+2023-04-24,2023-04-21,4,RCG,Common Stock,"Murray Stahl President and CEO, Director",P - Purchase,,45,1.79,80.73,"53,527"
+2023-04-24,2023-04-21,4,RCG,Common Stock,"Murray Stahl President and CEO, Director",P - Purchase,,1,1.79,1.79,155
+2023-04-24,2023-04-21,4,RCG,Common Stock,"Murray Stahl President and CEO, Director",P - Purchase,,1,1.79,1.79,155
+2023-04-24,2023-04-21,4,BCBP,Common Stock,Mark D Hogan Director,P - Purchase,,"10,000",11.04,"110,374.00","549,531"
+2023-04-24,2023-04-20,4,LEGH,"Common Stock, par value $0.001 per share (""Common Stock"")",William G Shipley 10% Owner,S - Sale,,"-5,016",21.34,"-107,041.44","3,006,742"
+2023-04-24,2023-04-24,4,NKSH,Common Stock,Norman V III Fitzwater Director,P - Purchase,,"1,000",32.59,"32,590.00","8,000"
+2023-04-24,2023-04-21,4,FNLC,Common Stock,Kimberly Swan Director,P - Purchase,,"1,958",25.08,"49,108.60","8,543"
+2023-04-24,2023-04-20,4,CYTH,Common Stock,"Jeffrey Tate Chief Operating Officer, Director",P - Purchase,,"29,941",0.71,"21,258.11","62,101"
+2023-04-24,2023-04-20,4,CYTH,Common Stock,Markus Sieger Director,P - Purchase,,"59,881",0.71,"42,515.51","161,051"
+2023-04-24,2023-04-20,4,CYTH,Common Stock,Francis Patrick Ostronic Director,P - Purchase,,"59,881",0.71,"42,515.51","222,371"
+2023-04-24,2023-04-20,4,CYTH,Common Stock,"N Scott Fine Chief Executive Officer, Director",P - Purchase,,"299,402",0.71,"212,575.42","444,402"
 2023-04-24,2023-04-21,4,JLS,Common Stock,Aashh Parekh,P - Purchase,,100,15.93,"1,593.00","3,677"
-2023-04-24,2023-04-21,4,GNPX,Common Stock,"John Rodney Varner
-Chairman, President and CEO, Director",P - Purchase,,"19,000",1.06,"20,045.00","20,800"
-2023-04-24,2023-04-21,4,GNPX,Common Stock,"Catherine M Vaczy
-EVP GC Chief Strategy Officer",P - Purchase,,"20,000",1.07,"21,478.00","265,000"
-2023-04-24,2023-04-21,4,OXM,Common Stock,"Dennis M Love
-Director",S - Sale,,"-1,000",105.93,"-105,930.00","15,892"
+2023-04-24,2023-04-21,4,GNPX,Common Stock,"John Rodney Varner Chairman, President and CEO, Director",P - Purchase,,"19,000",1.06,"20,045.00","20,800"
+2023-04-24,2023-04-21,4,GNPX,Common Stock,Catherine M Vaczy EVP GC Chief Strategy Officer,P - Purchase,,"20,000",1.07,"21,478.00","265,000"
+2023-04-24,2023-04-21,4,OXM,Common Stock,Dennis M Love Director,S - Sale,,"-1,000",105.93,"-105,930.00","15,892"
